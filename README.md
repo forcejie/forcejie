@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=forcejie&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forcejie&layout=compact)](https://github.com/forcejie/github-readme-stats)
