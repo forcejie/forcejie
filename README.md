@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 ### 💜 种一棵树最好的时间是十年前，其次是现在
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=forcejie&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forcejie&layout=compact&theme=buefy)](https://github.com/forcejie/github-readme-stats)
